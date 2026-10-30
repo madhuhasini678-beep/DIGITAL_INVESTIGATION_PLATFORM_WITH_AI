@@ -1,0 +1,5 @@
+com\investigation\evidence\model\EvidenceRow.class
+com\investigation\evidence\model\ParsedEvidenceResult.class
+com\investigation\evidence\parser\EvidenceParser.class
+com\investigation\evidence\util\CryptoUtil.class
+com\investigation\evidence\parser\CsvEvidenceParser.class

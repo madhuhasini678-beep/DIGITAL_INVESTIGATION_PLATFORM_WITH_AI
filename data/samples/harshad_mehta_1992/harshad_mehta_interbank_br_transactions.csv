@@ -1,0 +1,6 @@
+timestamp,deal_id,issuing_bank,counterparty_bank,broker_name,security_type,face_value_inr,br_serial_no,settlement_status
+1992-01-14T11:00:00,RF-1049,Bank of Karad,State Bank of India,Harshad Mehta / Growmore,11.5% Central Govt Loan 2008,500000000,BK-BR-9912,COLLATERAL_DEFICIT
+1992-02-03T14:30:00,RF-1102,Metropolitan Co-op Bank,National Housing Bank,Harshad Mehta / Growmore,12% 1999 GoI Securities,750000000,MCB-BR-4011,NO_UNDERLYING_BOND
+1992-02-28T16:00:00,RF-1188,Bank of Karad,Standard Chartered Bank,Harshad Mehta / Growmore,13% Public Sector Unit Bond,1200000000,BK-BR-9944,FAKE_BR_ISSUED
+1992-03-12T10:15:00,RF-1240,State Bank of India,National Housing Bank,Harshad Mehta / Growmore,Treasury Bill 364D,400000000,SBI-TR-1021,DIVERTED_TO_BSE
+1992-04-10T12:00:00,RF-1355,Metropolitan Co-op Bank,State Bank of Saurashtra,Harshad Mehta / Growmore,11.5% Central Govt Loan 2010,650000000,MCB-BR-4120,UNRECONCILED_LEDGER

@@ -1,0 +1,5 @@
+timestamp,cheque_number,drawer_account,drawee_bank,payee_name,amount_inr,bse_scrip_target
+1992-01-16T15:00:00,CHQ-40192,Growmore Research & Assets Management,SBI Main Branch Bombay,BSE Clearing House,250000000,ACC Limited
+1992-02-05T12:30:00,CHQ-40244,Growmore Research & Assets Management,Bank of Karad Fort,BSE Clearing House,480000000,ACC Limited
+1992-03-01T14:45:00,CHQ-40311,Growmore Research & Assets Management,Standard Chartered Bombay,Apollo Tyres Brokers,310000000,Apollo Tyres
+1992-03-20T11:20:00,CHQ-40409,Growmore Research & Assets Management,SBI Main Branch Bombay,BSE Stock Pool,620000000,Tata Power

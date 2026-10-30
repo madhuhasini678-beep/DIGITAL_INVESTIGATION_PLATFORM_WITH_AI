@@ -1,0 +1,5 @@
+equipment_id,subsystem,last_serviced_date,deferral_authorized_by,risk_level,status_comment
+REFRIG-01,Tank Chilling Freon Unit,1982-06-15,Plant Management,CRITICAL,[DEMO / SIMULATED RECORD] Shut down to save ₹700 daily electricity cost
+SCRUB-02,Vent Gas Scrubber Caustic Wash,1984-10-22,Operations Desk,HIGH,[DEMO / SIMULATED RECORD] Caustic pump in standby mode without charge
+FLARE-01,Atmospheric Flare Tower,1984-11-20,Maintenance Dept,CRITICAL,Corroded pipe segment disconnected for overhaul
+WATER-04,Water Curtain Spray Header,1983-09-01,Safety Inspectorate,MEDIUM,Water spray height reaches 100ft max; stack release at 120ft

@@ -1,0 +1,5 @@
+timestamp,vault_parcel_id,source_airline_flight,currency_origin,cash_value_usd,jewelry_value_usd,assigned_vault_guard
+1978-12-10T14:00:00,LH-PARCEL-881,Lufthansa Flight 492,Frankfurt West Germany,2000000,350000,Rudy Ebling
+1978-12-10T18:30:00,LH-PARCEL-882,Lufthansa Flight 496,Frankfurt West Germany,3000000,525000,Rudy Ebling
+1978-12-11T03:12:00,LH-VAULT-ALERT,Building 261 Security,JFK Airport,0,0,FORCED_ENTRY_SIX_MASKED_GUNMEN
+1978-12-11T04:16:00,LH-VAULT-REMOVAL,Building 261 Loading Bay,JFK Airport,5000000,875000,LOADED_INTO_BLACK_FORD_ECONOLINE

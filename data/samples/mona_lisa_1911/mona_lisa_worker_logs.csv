@@ -1,0 +1,6 @@
+timestamp,worker_id,worker_name,trade,door_id,access_type,token_validity
+1911-08-21T06:30:00,W-882,Vincenzo Peruggia,Glazier / Glass fitter,Cour Visconti,INGRESS,VALID
+1911-08-21T06:40:00,W-104,Henri Picquet,Carpenter,Cour Visconti,INGRESS,VALID
+1911-08-21T07:10:00,W-882,Vincenzo Peruggia,Glazier / Glass fitter,Service Door 4,INGRESS,VALID
+1911-08-21T07:35:00,W-882,Vincenzo Peruggia,Glazier / Glass fitter,Cour du Sphinx,EGRESS_FORCED,[DEMO / SIMULATED RECORD] Doorknob unscrewed / keyless egress
+1911-08-21T07:40:00,W-209,Sauvet,Plumber,Cour du Sphinx,INGRESS,AIDED_EXIT

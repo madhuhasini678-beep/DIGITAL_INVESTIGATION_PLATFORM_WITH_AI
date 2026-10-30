@@ -1,0 +1,5 @@
+timestamp,originating_number,origin_location,destination_number,destination_location,duration_seconds,subscriber_name
+1978-12-08T20:15:00,212-555-0192,Ozone Park Queens (Robert's Lounge),516-555-0144,Valley Stream NY,180,Jimmy Burke
+1978-12-10T22:40:00,212-555-0812,JFK Cargo Bldg 261,212-555-0192,Ozone Park Queens,65,Louis Werner
+1978-12-11T05:25:00,212-555-0192,Ozone Park Queens,212-555-0371,Canarsie Brooklyn,45,Parnell Edwards
+1978-12-11T08:10:00,212-555-0371,Canarsie Brooklyn,212-555-0192,Ozone Park Queens,90,Parnell Edwards

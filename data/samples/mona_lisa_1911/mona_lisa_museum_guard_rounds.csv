@@ -1,0 +1,9 @@
+timestamp,checkpoint_id,guard_name,location,status,notes
+1911-08-21T06:00:00,CP-01,Jean Poupard,Salon Carré,VERIFIED_NORMAL,Routine morning patrol
+1911-08-21T06:15:00,CP-02,Jean Poupard,Grande Galerie,VERIFIED_NORMAL,Routine morning patrol
+1911-08-21T06:30:00,CP-03,Jean Poupard,Vestibule Denon,VERIFIED_NORMAL,Cleaners on duty
+1911-08-21T06:45:00,CP-01,Jean Poupard,Salon Carré,CHECKPOINT_MISSED,[DEMO / SIMULATED RECORD] Guard round unrecorded
+1911-08-21T07:00:00,CP-01,Jean Poupard,Salon Carré,CHECKPOINT_MISSED,[DEMO / SIMULATED RECORD] Unattended sector
+1911-08-21T07:15:00,CP-04,Marc Moreau,Service Staircase,ANOMALY_FOUND,Glazier frame bracket found discarded
+1911-08-21T07:45:00,CP-01,Jean Poupard,Salon Carré,CHECKPOINT_LOGGED,Painting assumed removed for official photography
+1911-08-22T08:30:00,CP-01,Louis Béroud,Salon Carré,THEFT_CONFIRMED,Artist Béroud inquires with guards; theft discovered

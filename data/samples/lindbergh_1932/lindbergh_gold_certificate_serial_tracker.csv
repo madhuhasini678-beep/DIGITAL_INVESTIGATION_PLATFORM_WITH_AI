@@ -1,0 +1,6 @@
+timestamp,certificate_serial,denomination,recovery_location,merchant_entity,suspect_license_plate,status
+1933-05-01T14:30:00,B14594185A,10,Federal Reserve Bank NYC,Deposit Exchange,,CIRCULATED_BANK
+1933-11-26T11:15:00,A73921040A,20,Upper East Side NYC,Corn Exchange Bank,,CIRCULATED_BANK
+1934-09-08T16:20:00,B08241094A,10,Bronx NYC,Warner-Quinlan Service Station,4U-13-41-NY,PENCIL_NOTED_PLATE
+1934-09-15T09:40:00,A73528430A,20,Bronx NYC,127th St Bank Branch,4U-13-41-NY,MATCHED_HAUPTMANN_AUTO
+1934-09-19T10:00:00,B14594190A,10,222nd St Bronx,Garage Search - Bruno Hauptmann,,RECOVERED_STASH

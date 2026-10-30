@@ -1,0 +1,6 @@
+timestamp,transaction_id,investing_entity,target_company,shares_purchased,purchase_price_inr,calcutta_market_bid_inr,variance_inr
+1957-06-25T11:00:00,LIC-TX-001,Life Insurance Corporation of India,Richardson & Cruddas,260000,15.25,12.50,2.75
+1957-06-25T11:15:00,LIC-TX-002,Life Insurance Corporation of India,Jessop & Company,390000,24.50,19.00,5.50
+1957-06-25T11:30:00,LIC-TX-003,Life Insurance Corporation of India,British India Corporation,550000,11.00,8.20,2.80
+1957-06-25T11:45:00,LIC-TX-004,Life Insurance Corporation of India,Smith Stanistreet & Co,120000,14.00,10.00,4.00
+1957-06-25T12:00:00,LIC-TX-005,Life Insurance Corporation of India,Osler Electric Lamp,80000,9.50,5.20,4.30
